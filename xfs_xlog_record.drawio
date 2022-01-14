@@ -1,1 +1,550 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T06:01:28.647Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="texhpX2R6BQ1jw5GB4Xb" version="16.2.2" type="github"><diagram id="bRwDIql0jNO798yPzyvz" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-14T09:44:41.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="zZy3bqY2WwqDIryzYetA" version="16.2.4" type="github">
+  <diagram id="bRwDIql0jNO798yPzyvz" name="Page-1">
+    <mxGraphModel dx="2389" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q5kSKvI9137AtpN6petW-1" value="xlog_rec_header" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="44" y="20" width="370" height="364" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-2" value="__be32    h_magicno;    /* log record (LR) identifier       :  4 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="26" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-3" value="__be32    h_cycle;  /* write cycle of log           :  4 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="52" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-4" value="__be32    h_version;    /* LR version               :  4 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="78" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-5" value="__be32    h_len;    /* len in bytes; should be 64-bit aligned: 4 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="104" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-6" value="__be64    h_lsn;    /* lsn of this LR           :  8 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="130" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-7" value="__be64    h_tail_lsn;   /* lsn of 1st LR w/ buffers not committed: 8 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="156" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-8" value="__le32    h_crc;    /* crc of log record                    :  4 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="182" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-9" value="__be32    h_prev_block; /* block number to previous LR      :  4 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="208" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-10" value="__be32    h_num_logops; /* number of log operations in this LR  :  4 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="234" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-11" value="__be32    h_cycle_data[XLOG_HEADER_CYCLE_SIZE / BBSIZE];" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="260" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-12" value=" __be32    h_fmt;        /* format of log record                 :  4 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="286" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-13" value="uuid_t    h_fs_uuid;    /* uuid of FS                           : 16 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="312" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-14" value="__be32    h_size;   /* iclog size               :  4 */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-1" vertex="1">
+          <mxGeometry y="338" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-17" value="xlog_op_header" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="585" width="330" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-18" value="__be32     oh_tid;  /* transaction id of operation  :  4 b */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-17" vertex="1">
+          <mxGeometry y="26" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-19" value="__be32     oh_len;  /* bytes in data region     :  4 b */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-17" vertex="1">
+          <mxGeometry y="52" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-20" value="__u8       oh_clientid; /* who sent me this     :  1 b */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-17" vertex="1">
+          <mxGeometry y="78" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-21" value="__u8       oh_flags;    /*              :  1 b */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-17" vertex="1">
+          <mxGeometry y="104" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-22" value="__u16      oh_res2; /* 32 bit align         :  2 b */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-17" vertex="1">
+          <mxGeometry y="130" width="330" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-23" value="xfs_trans_header" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="143" y="420" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-24" value="uint        th_magic;       /* magic number */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-23" vertex="1">
+          <mxGeometry y="26" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-25" value="uint        th_type;        /* transaction type */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-23" vertex="1">
+          <mxGeometry y="52" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-26" value="__int32_t   th_tid;         /* transaction id (unused) */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-23" vertex="1">
+          <mxGeometry y="78" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-27" value="uint        th_num_items;       /* num items logged by trans */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-23" vertex="1">
+          <mxGeometry y="104" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-28" value="xfs_inode_log_format" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="760" width="333" height="328" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-29" value="__uint16_t      ilf_type;   /* inode log item type */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="26" width="333" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-30" value="__uint16_t      ilf_size;   /* size of this item */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="52" width="333" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-31" value="__uint32_t      ilf_fields; /* flags for fields logged */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="78" width="333" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-32" value="__uint16_t      ilf_asize;  /* size of attr d/ext/root */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="104" width="333" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-33" value="__uint16_t      ilf_dsize;  /* size of data/ext/root */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="130" width="333" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-34" value="__uint64_t      ilf_ino;    /* inode number */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="156" width="333" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-35" value="union {&#xa;         __uint32_t  ilfu_rdev;  /* rdev value for dev inode*/&#xa;         uuid_t      ilfu_uuid;  /* mount point value */&#xa;} ilf_u;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="182" width="333" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-36" value="__int64_t       ilf_blkno;  /* blkno of inode buffer */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="250" width="333" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-37" value="__int32_t       ilf_len;    /* len of inode buffer */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="276" width="333" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-38" value="__int32_t       ilf_boffset;    /* off of inode in buffer */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-28" vertex="1">
+          <mxGeometry y="302" width="333" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-40" value="xfs_log_item" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="380" width="350" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-41" value="struct list_head        li_ail;     /* AIL pointers */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="26" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-42" value="xfs_lsn_t           li_lsn;     /* last on-disk lsn */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="52" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-43" value="struct xfs_log_item_desc    *li_desc;   /* ptr to current desc*/" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="78" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-44" value="struct xfs_mount        *li_mountp; /* ptr to fs mount */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="104" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-45" value="struct xfs_ail          *li_ailp;   /* ptr to AIL */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="130" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-46" value="uint                li_type;    /* item type */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="156" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-47" value="uint                li_flags;   /* misc flags */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="182" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-48" value="struct xfs_log_item     *li_bio_list;   /* buffer item list */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="208" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-49" value="void                (*li_cb)(struct xfs_buf *,&#xa;                    struct xfs_log_item *);&#xa;                       /* buffer item iodone */&#xa;                       /* callback func */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="234" width="350" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-50" value="const struct xfs_item_ops   *li_ops;    /* function list */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="300" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-51" value="/* delayed logging */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="326" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-52" value="struct list_head        li_cil;     /* CIL pointers */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="352" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-53" value="struct xfs_log_vec      *li_lv;     /* active log vector */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="378" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5kSKvI9137AtpN6petW-54" value="xfs_lsn_t           li_seq;     /* CIL commit seq */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q5kSKvI9137AtpN6petW-40" vertex="1">
+          <mxGeometry y="404" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-1" value="xfs_buf_item_ops" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="961" y="990" width="280" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-2" value=".iop_size   = xfs_buf_item_size," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-1">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-3" value=".iop_format = xfs_buf_item_format," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-1">
+          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-4" value=".iop_pin    = xfs_buf_item_pin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-1">
+          <mxGeometry y="78" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-15" value=".iop_unpin  = xfs_buf_item_unpin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-1">
+          <mxGeometry y="104" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-16" value=".iop_unlock = xfs_buf_item_unlock," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-1">
+          <mxGeometry y="130" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-17" value=".iop_committed  = xfs_buf_item_committed," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-1">
+          <mxGeometry y="156" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-18" value=".iop_push   = xfs_buf_item_push," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-1">
+          <mxGeometry y="182" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-19" value=".iop_committing = xfs_buf_item_committing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-1">
+          <mxGeometry y="208" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-5" value="xfs_item_ops" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="640" width="370" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-6" value="uint (*iop_size)(xfs_log_item_t *);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry y="26" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-7" value="void (*iop_format)(xfs_log_item_t *, struct xfs_log_iovec *);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry y="52" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-8" value="void (*iop_pin)(xfs_log_item_t *);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry y="78" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-9" value="void (*iop_unpin)(xfs_log_item_t *, int remove);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry y="104" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-10" value="uint (*iop_push)(struct xfs_log_item *, struct list_head *);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry y="130" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-11" value="void (*iop_unlock)(xfs_log_item_t *);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry y="156" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-12" value=" xfs_lsn_t (*iop_committed)(xfs_log_item_t *, xfs_lsn_t);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry y="182" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-13" value="void (*iop_committing)(xfs_log_item_t *, xfs_lsn_t);" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry y="208" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q5kSKvI9137AtpN6petW-50" target="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="650" as="sourcePoint" />
+            <mxPoint x="1010" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-20" value="xfs_inode_item_ops" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="990" width="280" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-21" value=".iop_size   = xfs_inode_item_size," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-20">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-22" value=".iop_format = xfs_inode_item_format," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-20">
+          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-23" value=".iop_pin    = xfs_inode_item_pin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-20">
+          <mxGeometry y="78" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-24" value=".iop_unpin  = xfs_inode_item_unpin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-20">
+          <mxGeometry y="104" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-25" value=".iop_unlock = xfs_inode_item_unlock," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-20">
+          <mxGeometry y="130" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-26" value=".iop_committed  = xfs_inode_item_committed," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-20">
+          <mxGeometry y="156" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-27" value=".iop_push   = xfs_inode_item_push," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-20">
+          <mxGeometry y="182" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-28" value=".iop_committing = xfs_inode_item_committing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-20">
+          <mxGeometry y="208" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-29" value="xfs_efi_item_ops" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="980" width="280" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-30" value=".iop_size   = xfs_efi_item_size," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-29">
+          <mxGeometry y="26" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-31" value=".iop_format = xfs_efi_item_format," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-29">
+          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-32" value=".iop_pin    = xfs_efi_item_pin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-29">
+          <mxGeometry y="78" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-33" value=".iop_unpin  = xfs_efi_item_unpin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-29">
+          <mxGeometry y="104" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-34" value=".iop_unlock = xfs_efi_item_unlock," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-29">
+          <mxGeometry y="130" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-35" value=".iop_committed  = xfs_efi_item_committed," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-29">
+          <mxGeometry y="156" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-36" value=".iop_push   = xfs_efi_item_push," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-29">
+          <mxGeometry y="182" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-37" value=".iop_committing = xfs_efi_item_committing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-29">
+          <mxGeometry y="208" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-38" value="xfs_dquot_item_ops" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="990" width="310" height="234" as="geometry">
+            <mxRectangle x="1640" y="990" width="140" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-39" value=".iop_size   = xfs_qm_dquot_logitem_size," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-38">
+          <mxGeometry y="26" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-40" value=".iop_format = xfs_qm_dquot_logitem_format," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-38">
+          <mxGeometry y="52" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-41" value=".iop_pin    = xfs_qm_dquot_logitem_pin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-38">
+          <mxGeometry y="78" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-42" value=".iop_unpin  = xfs_qm_dquot_logitem_unpin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-38">
+          <mxGeometry y="104" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-43" value=".iop_unlock = xfs_qm_dquot_logitem_unlock," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-38">
+          <mxGeometry y="130" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-44" value=".iop_committed  = xfs_qm_dquot_logitem_committed," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-38">
+          <mxGeometry y="156" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-45" value=".iop_push   = xfs_qm_dquot_logitem_push," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-38">
+          <mxGeometry y="182" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-46" value=".iop_committing = xfs_qm_dquot_logitem_committing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-38">
+          <mxGeometry y="208" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-49" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="3kVm0ukusauSk2rDetlq-1" target="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1400" y="760" as="sourcePoint" />
+            <mxPoint x="1560" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-50" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="3kVm0ukusauSk2rDetlq-20" target="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1111" y="1000" as="sourcePoint" />
+            <mxPoint x="1282.2618025751071" y="884" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-51" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="3kVm0ukusauSk2rDetlq-38" target="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1438.3571428571431" y="1000" as="sourcePoint" />
+            <mxPoint x="1446.6428571428573" y="884" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-52" value="xfs_qm_qoff_logitem_ops" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1640" y="1540" width="170" height="26" as="geometry">
+            <mxRectangle x="1640" y="1540" width="320" height="234" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-53" value=".iop_size   = xfs_qm_qoff_logitem_size," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-52">
+          <mxGeometry y="26" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-54" value=".iop_format = xfs_qm_qoff_logitem_format," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-52">
+          <mxGeometry y="52" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-55" value=".iop_pin    = xfs_qm_qoff_logitem_pin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-52">
+          <mxGeometry y="78" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-56" value=".iop_unpin  = xfs_qm_qoff_logitem_unpin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-52">
+          <mxGeometry y="104" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-57" value=".iop_unlock = xfs_qm_qoff_logitem_unlock," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-52">
+          <mxGeometry y="130" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-58" value=".iop_committed  = xfs_qm_qoff_logitem_committed," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-52">
+          <mxGeometry y="156" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-59" value=".iop_push   = xfs_qm_qoff_logitem_push," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-52">
+          <mxGeometry y="182" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-60" value=".iop_committing = xfs_qm_qoff_logitem_committing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-52">
+          <mxGeometry y="208" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-61" value="xfs_qm_qoffend_logitem_ops" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1680" y="1260" width="190" height="26" as="geometry">
+            <mxRectangle x="1680" y="1260" width="310" height="234" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-62" value=".iop_size   = xfs_qm_qoff_logitem_size," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-61">
+          <mxGeometry y="26" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-63" value=".iop_format = xfs_qm_qoff_logitem_format," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-61">
+          <mxGeometry y="52" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-64" value=".iop_pin    = xfs_qm_qoff_logitem_pin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-61">
+          <mxGeometry y="78" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-65" value=".iop_unpin  = xfs_qm_qoff_logitem_unpin," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-61">
+          <mxGeometry y="104" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-66" value=".iop_unlock = xfs_qm_qoff_logitem_unlock," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-61">
+          <mxGeometry y="130" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-67" value=".iop_committed  = xfs_qm_qoffend_logitem_committed," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-61">
+          <mxGeometry y="156" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-68" value=".iop_push   = xfs_qm_qoff_logitem_push," style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-61">
+          <mxGeometry y="182" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-69" value=".iop_committing = xfs_qm_qoff_logitem_committing" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-61">
+          <mxGeometry y="208" width="310" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-70" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="3kVm0ukusauSk2rDetlq-61" target="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1688" y="1000" as="sourcePoint" />
+            <mxPoint x="1550" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-71" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="3kVm0ukusauSk2rDetlq-52" target="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1742.2757111597375" y="1280" as="sourcePoint" />
+            <mxPoint x="1560" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-72" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="3kVm0ukusauSk2rDetlq-29" target="3kVm0ukusauSk2rDetlq-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1688" y="1000" as="sourcePoint" />
+            <mxPoint x="1572" y="884" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-73" value="log" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="90" width="550" height="846" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-74" value="struct xfs_mount    *l_mp;          /* mount point */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="26" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-75" value="struct xfs_ail      *l_ailp;    /* AIL log is working with */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="52" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-76" value="struct xfs_cil      *l_cilp;    /* CIL log is working with */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="78" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-77" value="struct xfs_buf      *l_xbuf;        /* extra buffer for log&#xa;                     * wrapsing */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="104" width="550" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-78" value="struct xfs_buftarg  *l_targ;        /* buftarg of log */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="140" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-79" value="struct delayed_work l_work;     /* background flush work */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="166" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-80" value="uint            l_flags;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="192" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-81" value="uint            l_quotaoffs_flag; /* XFS_DQ_*, for QUOTAOFFs */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="218" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-82" value="struct list_head    *l_buf_cancel_table;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="244" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-83" value="int         l_iclog_hsize;  /* size of iclog header */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="270" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-84" value="int         l_iclog_heads;  /* # of iclog header sectors */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="296" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-85" value="uint            l_sectBBsize;   /* sector size in BBs (2^n) */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="322" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-86" value="int         l_iclog_size;   /* size of log in bytes */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="348" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-87" value="int         l_iclog_size_log; /* log power size of log */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="374" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-88" value="int         l_iclog_bufs;   /* number of iclog buffers */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="400" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-89" value="xfs_daddr_t     l_logBBstart;   /* start block of log */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="426" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-90" value="int         l_logsize;      /* size of log in bytes */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="452" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-91" value="int         l_logBBsize;    /* size of log in BB chunks */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="478" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-92" value=" wait_queue_head_t   l_flush_wait ____cacheline_aligned_in_smp;   /* waiting for iclog flush */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="504" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-93" value="int         l_covered_state;/* state of &quot;covering disk &#xa;                * log entries&quot; */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="530" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-94" value="xlog_in_core_t      *l_iclog;       /* head log queue   */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="570" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-95" value="spinlock_t      l_icloglock;    /* grab to change iclog state */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="596" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-96" value="int         l_curr_cycle;   /* Cycle number of log writes */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="622" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-97" value="int         l_prev_cycle;   /* Cycle number before last&#xa;                     * block increment */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="648" width="550" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-98" value="int         l_curr_block;   /* current logical log block */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="690" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-99" value="int         l_prev_block;   /* previous logical log block */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="716" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-100" value="atomic64_t      l_last_sync_lsn ____cacheline_aligned_in_smp;    /* lsn of last LR on disk */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="742" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-101" value="atomic64_t      l_tail_lsn ____cacheline_aligned_in_smp;   /* lsn of 1st LR with unflushed * buffers */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="768" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-102" value="struct xlog_grant_head  l_reserve_head;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="794" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-103" value="struct xlog_grant_head  l_write_head;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-73">
+          <mxGeometry y="820" width="550" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-106" value="1.&amp;nbsp;xfs_trans_alloc&lt;br&gt;2.&amp;nbsp;xfs_trans_reserve&lt;br&gt;3.&amp;nbsp;xfs_trans_ijoin&lt;br&gt;4. xfs_trans_ichgtime&lt;br&gt;5.&amp;nbsp;xfs_trans_log_inode&lt;br&gt;6. xfs_trans_commit" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1040" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-107" value="xfs_log_vec" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="300" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-108" value="struct xfs_log_vec  *lv_next;   /* next lv in build list */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-107">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-109" value="int         lv_niovecs; /* number of iovecs in lv */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-107">
+          <mxGeometry y="52" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-110" value="struct xfs_log_iovec    *lv_iovecp; /* iovec array */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-107">
+          <mxGeometry y="78" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-111" value="struct xfs_log_item *lv_item;   /* owner */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-107">
+          <mxGeometry y="104" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-112" value="char            *lv_buf;    /* formatted buffer */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-107">
+          <mxGeometry y="130" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-113" value="int         lv_buf_len; /* size of formatted buffer */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-107">
+          <mxGeometry y="156" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-114" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q5kSKvI9137AtpN6petW-40" target="3kVm0ukusauSk2rDetlq-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="420" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-115" value="xfs_log_iovec" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="951" y="169" width="300" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-116" value="void        *i_addr;    /* beginning address of region */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-115">
+          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-117" value="int     i_len;      /* length in bytes of region */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-115">
+          <mxGeometry y="52" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-118" value="uint        i_type;     /* type of region */" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3kVm0ukusauSk2rDetlq-115">
+          <mxGeometry y="78" width="300" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-122" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3kVm0ukusauSk2rDetlq-115" target="3kVm0ukusauSk2rDetlq-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890.7040229885056" y="390" as="sourcePoint" />
+            <mxPoint x="820" y="257" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-123" value="&lt;div&gt;#define XLOG_REG_TYPE_BFORMAT &amp;nbsp; &amp;nbsp; &amp;nbsp; 1&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_BCHUNK &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;2&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_EFI_FORMAT &amp;nbsp; &amp;nbsp;3&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_EFD_FORMAT &amp;nbsp; &amp;nbsp;4&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_IFORMAT &amp;nbsp; &amp;nbsp; &amp;nbsp; 5&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_ICORE &amp;nbsp; &amp;nbsp; 6&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_IEXT &amp;nbsp; &amp;nbsp; &amp;nbsp;7&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_IBROOT &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;8&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_ILOCAL &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;9&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_IATTR_EXT &amp;nbsp; &amp;nbsp; 10&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_IATTR_BROOT &amp;nbsp; 11&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_IATTR_LOCAL &amp;nbsp; 12&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_QFORMAT &amp;nbsp; &amp;nbsp; &amp;nbsp; 13&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_DQUOT &amp;nbsp; &amp;nbsp; 14&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_QUOTAOFF &amp;nbsp; &amp;nbsp; &amp;nbsp;15&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_LRHEADER &amp;nbsp; &amp;nbsp; &amp;nbsp;16&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_UNMOUNT &amp;nbsp; &amp;nbsp; &amp;nbsp; 17&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_COMMIT &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;18&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_TRANSHDR &amp;nbsp; &amp;nbsp; &amp;nbsp;19&lt;/div&gt;&lt;div&gt;#define XLOG_REG_TYPE_MAX &amp;nbsp; &amp;nbsp; &amp;nbsp; 19&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="115" width="270" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="3kVm0ukusauSk2rDetlq-124" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3kVm0ukusauSk2rDetlq-123" target="3kVm0ukusauSk2rDetlq-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="961" y="231" as="sourcePoint" />
+            <mxPoint x="820" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
